@@ -27,21 +27,21 @@ To develop a dynamic, interactive Tableau dashboard that provides deep insights 
   - Aggregated counts by model, make, year, and state.
 
 4. Data Visualization (in Tableau)
-KPIs Panel:
-  - Total Vehicles: 1,50,422
-  - Average Electric Range: 67.83 miles
-  - BEV Share: 77.6% (1,16,750 vehicles)
-  - PHEV Share: 22.4% (33,672 vehicles)
-Bar Charts:
-  - Vehicles by Model Year
-  - Top 10 Vehicle Models and Makes
-  - CAFV Eligibility Breakdown
-Map View:
-- Total Vehicles by State
-Filter Panels:
-- By EV Type
-- By CAFV Eligibility
-- By State
+- KPIs Panel:
+    - Total Vehicles: 1,50,422
+    - Average Electric Range: 67.83 miles
+    - BEV Share: 77.6% (1,16,750 vehicles)
+    - PHEV Share: 22.4% (33,672 vehicles)
+- Bar Charts:
+    - Vehicles by Model Year
+    - Top 10 Vehicle Models and Makes
+    - CAFV Eligibility Breakdown
+- Map View:
+    - Total Vehicles by State
+- Filter Panels:
+    - By EV Type
+    - By CAFV Eligibility
+    - By State
 
 ## Insights & Findings
 - Tesla leads the market with over 52.7% of total EVs.
@@ -60,4 +60,4 @@ The EV dashboard provides a clear snapshot of electric vehicle adoption across t
 2. Infrastructure Investment: Prioritize charging stations in states with lower adoption to stimulate growth.
 3. Manufacturer Strategy: Non-Tesla brands should focus on improving vehicle range and cost-effectiveness.
 4. Incentivize BEVs: Promote BEVs through tax benefits or rebates as they form the majority and align with long-term sustainability goals.
-5.Year-over-Year Monitoring: Maintain dashboards to track emerging trends and make real-time data-driven decisions.
+5. Year-over-Year Monitoring: Maintain dashboards to track emerging trends and make real-time data-driven decisions.
