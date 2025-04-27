@@ -1,4 +1,4 @@
-# Electric Vehicle (EV) Analysis
+# Electric Vehicle (EV) Data Analysis
 ## Problem Statement
 With the rapid adoption of electric vehicles (EVs), stakeholders in the automotive industry, including policymakers, manufacturers, and infrastructure planners, require actionable insights into the EV ecosystem. The goal is to analyze registration trends, vehicle types, manufacturer shares, and regional adoption to drive future planning and policy decisions.
 
